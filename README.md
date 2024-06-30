@@ -1,4 +1,4 @@
-# TSG2L
+# TSLiner
 This repository contains the official implementation for the paper []().
 
 ## Requirements
